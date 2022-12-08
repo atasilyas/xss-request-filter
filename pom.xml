@@ -50,17 +50,6 @@
     </dependency>
   </dependencies>
 
-  <distributionManagement>
-    <repository>
-      <id>iot-solhub-maven-release</id>
-      <url>https://nexus.tools.aws.vodafone.com/repository/iot-solhub-maven-release/</url>
-    </repository>
-    <snapshotRepository>
-      <id>iot-solhub-maven-snapshot</id>
-      <url>https://nexus.tools.aws.vodafone.com/repository/iot-solhub-maven-snapshot/</url>
-    </snapshotRepository>
-  </distributionManagement>
-
 
   <build>
     <plugins>
